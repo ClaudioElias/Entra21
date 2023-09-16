@@ -14,3 +14,7 @@ div {
   td {
     align-content: center;
   }
+
+  ol li {
+    font-size: 30px;
+  }
