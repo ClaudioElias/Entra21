@@ -7,3 +7,10 @@ p {
 a {
     font-size: 30px;
   }
+div {
+    background-color: brown;
+  }
+
+  td {
+    align-content: center;
+  }
